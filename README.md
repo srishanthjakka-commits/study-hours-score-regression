@@ -8,7 +8,7 @@ It is intended as a **beginner-friendly introduction** to machine learning conce
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The model predicts a student's exam score based on the number of hours studied.  
 The project walks through a complete ML pipeline:
@@ -22,7 +22,7 @@ The project walks through a complete ML pipeline:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
@@ -32,7 +32,7 @@ The project walks through a complete ML pipeline:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset is a simple, manually created example:
 
@@ -45,7 +45,7 @@ The dataset is a simple, manually created example:
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Load and structure the data using pandas
 2. Define features (`Hours_Studied`) and target (`Score`)
@@ -57,6 +57,6 @@ The dataset is a simple, manually created example:
 
 ---
 
-## 📈 Visualization
+## Visualization
 
 The final output includes a scatter plot of actual scores and a regression line showing the model’s predictions.
